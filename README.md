@@ -1,2 +1,2 @@
-![ALT Text](img/img1.png)
-![ALT Text](img/img2.png)
+![ALT Text](assets/img1.png)
+![ALT Text](assets/img2.png)
